@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/UI.uss?fileID=7433441132597879392&amp;guid=ff75c93f3075eec4ba0c75b96fe905a7&amp;type=3#UI" />
+    <ui:Label text="Score: 0" name="ScoreLabel" selectable="false" style="position: absolute; top: 4%; align-self: center; font-size: 20px; -unity-font-style: bold; color: rgb(255, 255, 255); width: 122px; -unity-text-align: middle-center;" />
+    <ui:Button text="Restart" name="RestartButton" style="position: absolute; top: 50%; align-self: center; font-size: 20px; -unity-font-style: bold;" />
+    <ui:Label text="HighScore: 0" name="HighScoreLabel" selectable="false" style="position: absolute; top: 17%; align-self: center; font-size: 16px; -unity-font-style: bold; color: rgb(255, 255, 255); -unity-text-align: upper-center;" />
+</ui:UXML>

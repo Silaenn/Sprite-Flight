@@ -187,3 +187,4 @@ MonoBehaviour:
   minSpeed: 50
   maxSpeed: 300
   maxSpinSpeed: 10
+  explosionObstacleEffect: {fileID: 3683655418620140558, guid: f83c7d8527106c341be4854f62432982, type: 3}
